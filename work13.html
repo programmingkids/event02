@@ -1,0 +1,23 @@
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <title>work09</title>
+    </head>
+    <body>
+    <h1>足し算</h1>
+    <input type="text" id="number1">
+    +
+    <input type="text" id="number2">
+    <button id="btn">=</button>
+    <input type="text" id="answer">
+    <script>
+        var btn = document.getElementById("btn");
+        btn.onclick = function() {
+            var number1 = document.getElementById("number1").value;
+            var number2 = document.getElementById("number2").value;
+            var answer = parseInt(number1) + parseInt(number2);
+            document.getElementById("answer").value = answer;
+        }
+    </script>
+    </body>
+</html>

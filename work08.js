@@ -1,4 +1,5 @@
-var name = "山田";
-var age = 15;
-console.log("私の名前は" + name);
-console.log("私は" + age + "です");
+var number1 = 8;
+var number2 = 2;
+
+console.log( number1 + number2 );
+console.log( number1 - number2 );

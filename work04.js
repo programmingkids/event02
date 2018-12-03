@@ -1,5 +1,2 @@
-console.log( 5 + 2 );
-console.log( 5 - 2 );
-console.log( 5 * 2 );
-console.log( 5 / 2 );
-
+console.log("初めまして");
+console.log("私の名前は〇〇です");

@@ -1,7 +1,5 @@
-var number1 = 5;
-var number2 = 2;
+console.log( 6 + 4 );
+console.log( 10 - 2 );
+console.log( 4 * 3 );
+console.log( 8 / 2 );
 
-console.log( number1 + number2 );
-console.log( number1 - number2 );
-console.log( number1 * number2 );
-console.log( number1 / number2 );

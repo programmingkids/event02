@@ -1,2 +1,2 @@
-console.log("初めまして");
-console.log("私の名前は〇〇です");
+console.log("こんにちは");
+console.log("元気ですか");

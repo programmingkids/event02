@@ -1,2 +1,7 @@
-console.log("私の名前は" + "山田");
-console.log("私は" + "15歳です");
+var number1 = 5;
+var number2 = 2;
+
+console.log( number1 + number2 );
+console.log( number1 - number2 );
+console.log( number1 * number2 );
+console.log( number1 / number2 );
