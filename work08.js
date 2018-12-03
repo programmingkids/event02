@@ -1,4 +1,4 @@
-var name = "R“c";
+var name = "å±±ç”°";
 var age = 15;
-console.log("„‚Ì–¼‘O‚Í" + name);
-console.log("„‚Í" + age + "‚Å‚·");
+console.log("ç§ã®åå‰ã¯" + name);
+console.log("ç§ã¯" + age + "ã§ã™");

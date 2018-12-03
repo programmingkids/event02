@@ -1,3 +1,3 @@
-console.log("‚±‚ñ‚É‚¿‚Í");
-console.log("Œ³‹C‚Å‚·‚©");
+console.log("ã“ã‚“ã«ã¡ã¯");
+console.log("å…ƒæ°—ã§ã™ã‹");
 
